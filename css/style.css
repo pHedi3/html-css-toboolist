@@ -6,11 +6,27 @@
 /* leyout dei blocchi  */
 body {
     background-color: lightgray;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
 }
 
 header {
     background-color: white;
     height: 75px;
+}
+
+nav {
+    background-color: white;
+    margin: 20px auto 2px;
+    width: 1000px;
+    padding-left: 20px;
+}
+
+main {
+    background-color: white;
+    margin: 0 auto 2px;
+    width: 1000px;
+ 
 }
 
 
@@ -24,5 +40,28 @@ header {
     font-size: 60px;
     height: 75px;
     line-height: 75px;
+    font-weight: bold;
 
 }
+
+/* leyout del nav  */
+.botton {
+    display: inline-block;
+    padding: 5px;
+    margin: 10px 2px;
+    border-radius: 6px;
+    text-align: center;
+}
+
+.add-task {
+    background-color: rgb(77, 179, 243);
+    color: white;
+    b
+}
+
+.add-section {
+    border: 2px solid grey;
+    color: grey;
+    
+}
+
