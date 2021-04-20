@@ -5,9 +5,11 @@
 }
 /* leyout dei blocchi  */
 body {
-    background-color: lightgray;
+    background-color: rgb(238, 238, 238);
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
+    font-weight: 800;
+    color: rgb(40, 40, 44);
 }
 
 header {
@@ -47,6 +49,12 @@ li {
 
 .task {
     display: inline-block;
+    margin-left: 5px;
+    font-size: 10px;
+    color: white;
+    border-radius: 10px;
+    padding: 6px 8px;
+    text-align: center;
 }
 
 .simble{
@@ -91,8 +99,8 @@ li {
 }
 
 .add-section {
-    border: 2px solid grey;
-    color: grey;
+    border: 2px solid lightgrey;
+    color: lightgrey ;
 
 }
 
@@ -110,6 +118,30 @@ h2 {
 .dont {
     border: 1px solid red;
     color: red;
-
-
+    padding-bottom: 2px;
 }
+
+.editorial {
+    background-color: lightskyblue;
+}
+
+.q1-goals {
+    background-color: magenta;
+}
+
+.recruiting {
+    background-color: mediumaquamarine;
+}
+
+.mobile {
+    background-color: orange;
+}
+
+.website {
+    background-color: palevioletred;
+}
+
+.sales {
+    background-color: greenyellow;
+}
+
