@@ -22,6 +22,7 @@ nav {
     margin: 20px auto 2px;
     width: 1000px;
     padding-left: 20px;
+    border-radius: 5px;
 }
 
 main {
@@ -29,6 +30,8 @@ main {
     margin: 0 auto 2px;
     width: 1000px;
     padding: 20px;
+    border-radius: 5px;
+
  
 }
 
