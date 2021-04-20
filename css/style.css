@@ -74,14 +74,13 @@ li {
 
 /* leyout dell'intestazione  */
 .logo {
-    vertical-align: bottom; 
-    height: 75px;
+    vertical-align: middle; 
+    height: 70px;
 }
 .logo-text {
+    vertical-align: middle;
     display: inline-block;
     font-size: 60px;
-    height: 75px;
-    line-height: 75px;
 
 }
 
