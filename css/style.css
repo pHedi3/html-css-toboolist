@@ -3,7 +3,26 @@
     margin: 0;
     padding: 0;
 }
-
+/* leyout dei blocchi  */
 body {
     background-color: lightgray;
+}
+
+header {
+    background-color: white;
+    height: 75px;
+}
+
+
+/* leyout dell'intestazione  */
+.logo {
+    vertical-align: bottom; 
+    height: 75px;
+}
+.logo-text {
+    display: inline-block;
+    font-size: 60px;
+    height: 75px;
+    line-height: 75px;
+
 }
