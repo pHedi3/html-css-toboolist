@@ -88,21 +88,23 @@ li {
 /* leyout del nav  */
 .botton {
     display: inline-block;
-    padding: 5px;
+    padding: 10px;
     margin: 10px 2px;
     border-radius: 6px;
-    text-align: center;
+    cursor: pointer;
 }
 
 .add-task {
     background-color: rgb(77, 179, 243);
     color: white;
+    border: 1px solid rgb(77, 179, 243);
     b
 }
 
 .add-section {
-    border: 2px solid lightgrey;
-    color: lightgrey ;
+    border: 1px solid grey;
+    color: grey;
+    background-color: white;
 
 }
 
